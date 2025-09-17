@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cross_compile_shell" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/emsdk_setup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cross_compile_shell_scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emsdk_setup_scripts" vcs="Git" />
   </component>
 </project>
