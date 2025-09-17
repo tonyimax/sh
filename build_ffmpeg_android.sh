@@ -1,5 +1,8 @@
 #!/bin/bash
- 
+
+# 作者林宏权 email: lin_hong_quan_msn@hotmail.com
+# CSDN: https://blog.csdn.net/fittec?type=blog
+
 export NDK=$HOME/Library/Android/sdk/ndk/25.1.8937393
 export TOOLCHAIN=$NDK/toolchains/llvm/prebuilt/darwin-x86_64
 export API=28

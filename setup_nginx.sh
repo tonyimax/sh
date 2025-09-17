@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# 作者林宏权 email: lin_hong_quan_msn@hotmail.com
+# CSDN: https://blog.csdn.net/fittec?type=blog
+
 # Ubuntu Nginx 自动化安装脚本
-# 作者: AI助手
 # 描述: 自动安装和配置Nginx on Ubuntu
 
 set -e  # 遇到错误立即退出

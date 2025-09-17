@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# 作者林宏权 email: lin_hong_quan_msn@hotmail.com
+# CSDN: https://blog.csdn.net/fittec?type=blog
+
 export ANDROID_API=25
 export ANDROID_NDK=/opt/aarch64-linux-android
 export ANDROID_NDK_REVISION=r25b

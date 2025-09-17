@@ -1,1 +1,6 @@
+#!/bin/bash
+
+# 作者林宏权 email: lin_hong_quan_msn@hotmail.com
+# CSDN: https://blog.csdn.net/fittec?type=blog
+
 curl -O https://dl.google.com/android/repository/android-ndk-r25b-darwin.zip && unzip ./android-ndk-r25b-darwin.zip && cd android-ndk-r25b && sudo ./build/tools/make_standalone_toolchain.py --arch arm64 --api 23 --stl=libc++ --install-dir=/opt/aarch64-linux-android && find /opt/aarch64-linux-android -exec chmod a+r '{}' \; && find /opt/aarch64-linux-android -name "*-e" -exec chmod a+x '{}' \;

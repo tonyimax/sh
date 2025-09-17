@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# 作者林宏权 email: lin_hong_quan_msn@hotmail.com
+# CSDN: https://blog.csdn.net/fittec?type=blog
+
 git clone https://github.com/openssl/openssl.git --recursive &&
 cp openssl_android.sh ./openssl/. && cd openssl && sh ./openssl_android.sh &&
 cd .. && git clone https://github.com/mavlink/MAVSDK.git --recursive &&
